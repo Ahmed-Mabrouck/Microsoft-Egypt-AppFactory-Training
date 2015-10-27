@@ -25,6 +25,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.Exception Handling", "04
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception Handling", "01.CSharp\Day 2\04.Exception Handling\Exception Handling\Exception Handling.csproj", "{6CE8E8B9-D86C-42CE-8E10-33CE58C1F758}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Object Oriented Programming", "01.Object Oriented Programming", "{4C43882D-3A71-4DDB-B311-B134421D2DE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object Oriented Programming", "01.CSharp\Day 1\01.Object Oriented Programming\Object Oriented Programming\Object Oriented Programming.csproj", "{68A32C58-EC64-4BFA-BA95-62B44D92DEAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +51,10 @@ Global
 		{6CE8E8B9-D86C-42CE-8E10-33CE58C1F758}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CE8E8B9-D86C-42CE-8E10-33CE58C1F758}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CE8E8B9-D86C-42CE-8E10-33CE58C1F758}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68A32C58-EC64-4BFA-BA95-62B44D92DEAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A32C58-EC64-4BFA-BA95-62B44D92DEAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A32C58-EC64-4BFA-BA95-62B44D92DEAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A32C58-EC64-4BFA-BA95-62B44D92DEAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -62,5 +70,7 @@ Global
 		{11A8CC44-D32A-40F5-A629-550C3C2DE8BE} = {E786382F-17D5-4D77-B629-96ADD44AAC52}
 		{A6F378D0-2A90-48F0-A703-5E7E7D5406B5} = {6948279C-162E-4AB1-A92D-40AE0F1F35E7}
 		{6CE8E8B9-D86C-42CE-8E10-33CE58C1F758} = {A6F378D0-2A90-48F0-A703-5E7E7D5406B5}
+		{4C43882D-3A71-4DDB-B311-B134421D2DE5} = {7495D411-8F21-4FA4-B673-75C7C3071231}
+		{68A32C58-EC64-4BFA-BA95-62B44D92DEAE} = {4C43882D-3A71-4DDB-B311-B134421D2DE5}
 	EndGlobalSection
 EndGlobal
