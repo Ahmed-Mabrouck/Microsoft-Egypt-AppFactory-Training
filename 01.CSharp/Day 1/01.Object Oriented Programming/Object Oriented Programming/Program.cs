@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ObjectOrientedProgramming
+namespace Object_Oriented_Programming
 {
     class Program
     {
