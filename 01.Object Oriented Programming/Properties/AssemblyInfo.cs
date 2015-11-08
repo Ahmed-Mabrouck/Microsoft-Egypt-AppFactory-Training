@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Asynchrony")]
+[assembly: AssemblyTitle("01.Object Oriented Programming")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Asynchrony")]
+[assembly: AssemblyProduct("01.Object Oriented Programming")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("647eedaf-cf41-4843-a481-19b0fa255975")]
+[assembly: Guid("d591f715-3f8e-4349-8d65-7af794ad5ddd")]
 
 // Version information for an assembly consists of the following four values:
 //
